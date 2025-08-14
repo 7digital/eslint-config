@@ -1,8 +1,7 @@
 {
-  "name": "api-team-eslint-config",
-  "description": "ESLint config for API Team repos",
+  "name": "eslint-config",
+  "description": "ESLint configs for 7d repos",
   "type": "module",
-  "main": "index.js",
   "dependencies": {
     "@eslint/js": "^9.10.0"
   },
