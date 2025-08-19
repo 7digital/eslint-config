@@ -1,6 +1,6 @@
-# api-team-eslint-config
+# eslint-config
 
-ESLint config for API Team repos
+ESLint config for Team repos
 
 ## Usage
 
