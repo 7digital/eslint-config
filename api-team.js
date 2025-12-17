@@ -49,7 +49,8 @@ export default [
       'space-in-parens': ['error', 'never'],
       'brace-style': ['error', '1tbs', {
         allowSingleLine: true
-      }]
+      }],
+      'no-use-before-define': ['error']
     }
   },
   {
