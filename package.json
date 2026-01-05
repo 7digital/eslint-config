@@ -3,7 +3,7 @@
   "description": "ESLint configs for 7d repos",
   "type": "module",
   "dependencies": {
-    "@eslint/js": "^9.10.0"
+    "@eslint/js": "9.39.2"
   },
   "peerDependencies": {
     "eslint": "^9.10.0"
