@@ -20,6 +20,7 @@ export default [
       }],
       'linebreak-style': ['error', 'unix'],
       quotes: ['error', 'single'],
+      'quote-props': ['error', 'as-needed'],
       semi: ['error', 'always'],
       'no-var': ['error'],
       'prefer-const': ['error'],
